@@ -1,4 +1,4 @@
-# 🍣 Sushi
+<!-- # 🍣 Sushi
 
 > **Note**: Are you a macOS user? Check out my [Homebrew](https://brew.sh/) tap [**Malt**](https://github.com/kidonng/homebrew-malt).
 
@@ -203,4 +203,4 @@ These manifests have been removed from this bucket because there are better/main
 -   [wechatdevtools-32bit](https://github.com/kidonng/sushi/commit/84a1b116472bfb224f4e960696500957b10c44d1): use <code>[dorado](https://github.com/chawyehsu/dorado)/wechatdevtools</code>
 -   [xray](https://github.com/XTLS/Xray-core): use `main/xray`
 
-</details>
+</details> -->
