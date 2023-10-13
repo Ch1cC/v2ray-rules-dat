@@ -9,7 +9,7 @@
     "installer": {
         "script": [
             "if (-not (Test-Path \"$persist_dir\\v2ray-geoip\")) {",
-            "    Copy-Item \"$(appdir v2ray $global)\\current\\geoip.dat\" -Destination \"$dir\\geoip.dat.bak\"",
+            "    Copy-Item \"$(appdir v2ray $global)\\current\\geoip-only-cn-private.dat\" -Destination \"$dir\\geoip-only-cn-private.dat.bak\"",
             "}",
             "function LinkFile([String] $file, [String] $source = $file) {",
             "    Write-Host \"Creating hardlink for $file\"",
