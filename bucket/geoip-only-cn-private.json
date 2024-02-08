@@ -1,11 +1,11 @@
 {
-    "version": "202402010040",
+    "version": "202402080038",
     "description": "GeoIP data for V2Ray (official)",
     "homepage": "https://github.com/v2fly/geoip",
     "license": "MIT",
     "depends": "v2ray",
-    "url": "https://github.com/v2fly/geoip/releases/download/202402010040/geoip-only-cn-private.dat",
-    "hash": "c64e42b15abefe507cf16c7302d8b56e67282bce3e193a980f4596896203428e",
+    "url": "https://github.com/v2fly/geoip/releases/download/202402080038/geoip-only-cn-private.dat",
+    "hash": "8240512ff95c7df8b466146f2b715c98c58249ed4a7fe9acc3a974912bd50d02",
     "installer": {
         "script": [
             "if (-not (Test-Path \"$persist_dir\\v2ray-geoip\")) {",
