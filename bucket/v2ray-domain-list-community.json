@@ -1,11 +1,11 @@
 {
-    "version": "20260319044814",
+    "version": "20260320052542",
     "description": "Geosite and domain data for V2Ray (official)",
     "homepage": "https://github.com/v2fly/domain-list-community",
     "license": "MIT",
     "depends": "v2ray",
-    "url": "https://github.com/v2fly/domain-list-community/releases/download/20260319044814/dlc.dat",
-    "hash": "947dead18254d93cb605204eb9aa938245ae7e0ebf64e0bdd102866f3cda5b64",
+    "url": "https://github.com/v2fly/domain-list-community/releases/download/20260320052542/dlc.dat",
+    "hash": "f29a98899167f2c04d058b30c22ea9bfcbf0305a7ed194b47bae64f7d3515b07",
     "installer": {
         "script": [
             "if (-not (Test-Path \"$persist_dir\\v2ray-domain-list-community\")) {",
